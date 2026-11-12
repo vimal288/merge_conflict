@@ -1,1 +1,3 @@
 Hello from Developer 1
+Hello from Developer 2
+Both developers worked on this project.
