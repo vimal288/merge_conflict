@@ -1,6 +1,6 @@
 Hello,
-My name is developer2
-I am from Delhi
-I like Movies
+My name is developer1
+I am from Bangalore
+I like movies
 
 
